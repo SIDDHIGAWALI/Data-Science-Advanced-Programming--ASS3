@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R2,CV_R2
+Linear Regression,0.975,1.155,-0.054,-0.056
+Ridge,0.973,1.151,-0.049,-0.049
+Random Forest,0.969,1.138,-0.025,-0.042
+XGBoost,0.987,1.162,-0.069,-0.105
